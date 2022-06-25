@@ -1,0 +1,11 @@
+E:\учеба\Курсовой\Vizuliazatia\Vizuliazatia\bin\Debug\Vizuliazatia.exe.config
+E:\учеба\Курсовой\Vizuliazatia\Vizuliazatia\bin\Debug\Vizuliazatia.exe
+E:\учеба\Курсовой\Vizuliazatia\Vizuliazatia\bin\Debug\Vizuliazatia.pdb
+E:\учеба\Курсовой\Vizuliazatia\Vizuliazatia\obj\Debug\Vizuliazatia.csproj.AssemblyReference.cache
+E:\учеба\Курсовой\Vizuliazatia\Vizuliazatia\obj\Debug\Vizuliazatia.Form1.resources
+E:\учеба\Курсовой\Vizuliazatia\Vizuliazatia\obj\Debug\Vizuliazatia.Properties.Resources.resources
+E:\учеба\Курсовой\Vizuliazatia\Vizuliazatia\obj\Debug\Vizuliazatia.csproj.GenerateResource.cache
+E:\учеба\Курсовой\Vizuliazatia\Vizuliazatia\obj\Debug\Vizuliazatia.csproj.CoreCompileInputs.cache
+E:\учеба\Курсовой\Vizuliazatia\Vizuliazatia\obj\Debug\Vizuliazatia.exe
+E:\учеба\Курсовой\Vizuliazatia\Vizuliazatia\obj\Debug\Vizuliazatia.pdb
+E:\учеба\Курсовой\Vizuliazatia\Vizuliazatia\obj\Debug\Vizuliazatia.Form2.resources
